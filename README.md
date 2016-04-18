@@ -1,4 +1,4 @@
-# EmailNotifier
+# Phisical Email Notifier
 Phisical Email Notifier
 
 Email notifier can only run on a OS Windows that have a fremawork 4.5
